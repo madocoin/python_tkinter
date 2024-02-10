@@ -1,0 +1,2 @@
+simple tkinter for lerninge
+شرح بسيط على تكنتر مع امثلة
